@@ -40,5 +40,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage" : "http://michalbudzik.github.io/monsters-rolodex"
+  "homepage" : "http://michalbudzik.github.io/js-monsters-rolodex"
 }
